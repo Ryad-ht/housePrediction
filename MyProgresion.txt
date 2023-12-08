@@ -8,3 +8,10 @@ i am going to work on R because i am in a classe right now and i prefer to learn
 
 I am starting to read all my data with usful methode so i can understant what my data look like 
 this library is very usful Tidyvers so i am going to use it
+
+i cant sapply(data, function(x) sum(is.na(x))) use this beacuase x ist numerique value thay are talking about neighboorhood
+
+a lot of posibiliter can be use 
+skip this part
+replace theme by numbers like 1 2 or 3
+or creating more collumn bcs ther are only 3 thing and we will for ech will be a boolean (good thing to do bcs iam a data analyst creating restriction (if its urban it can be rural ect))so for the next time ppl want to entry a new valu tey can do mistak (at least less mistak)
