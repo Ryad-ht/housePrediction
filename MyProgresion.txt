@@ -1,0 +1,10 @@
+hello i am going to write what i am learing by myself on ML precisaly in regression for this repo
+first my english is bas assf** dont mind me 
+
+
+i get my data from kaggle there https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data
+
+i am going to work on R because i am in a classe right now and i prefer to learn with usful project 
+
+I am starting to read all my data with usful methode so i can understant what my data look like 
+this library is very usful Tidyvers so i am going to use it

@@ -1,4 +1,4 @@
-data <-read.csv("/Users/ryadhadj-tahar/housepredict/housing_price_dataset.csv")
+data <-read.csv("/Users/ryadhadj-tahar/houseprediction/housing_price_dataset.csv")
 summary(data)
 
 
